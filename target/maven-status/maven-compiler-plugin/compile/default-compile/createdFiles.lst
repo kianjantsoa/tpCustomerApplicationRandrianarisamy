@@ -1,5 +1,6 @@
 mg\itu\tpcustomerapplicationsrandrianarisamy\resources\JakartaEE8Resource.class
 mg\itu\tpcustomerapplicationsrandrianarisamy\DiscountCode.class
 mg\itu\tpcustomerapplicationsrandrianarisamy\JakartaRestConfiguration.class
+mg\itu\tpcustomerapplicationsrandrianarisamy\session\CustomerManager.class
 mg\itu\tpcustomerapplicationsrandrianarisamy\Customer.class
 mg\itu\tpcustomerapplicationsrandrianarisamy\MicroMarket.class
