@@ -38,7 +38,6 @@ public class CustomerBean implements Serializable {
       if (customerList == null) {
         customerList = customerManager.getAllCustomers();
       }
-      System.out.println("taille:" + customerList.size());
       return customerList;
     }  
 }
