@@ -4,5 +4,6 @@ mg\itu\tpcustomerapplicationsrandrianarisamy\managedbeans\CustomerBean.class
 mg\itu\tpcustomerapplicationsrandrianarisamy\JakartaRestConfiguration.class
 mg\itu\tpcustomerapplicationsrandrianarisamy\session\CustomerManager.class
 mg\itu\tpcustomerapplicationsrandrianarisamy\config\ConfigJSF.class
+mg\itu\tpcustomerapplicationsrandrianarisamy\managedbeans\CustomerDetailsMBean.class
 mg\itu\tpcustomerapplicationsrandrianarisamy\Customer.class
 mg\itu\tpcustomerapplicationsrandrianarisamy\MicroMarket.class
